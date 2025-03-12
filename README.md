@@ -1,5 +1,6 @@
 # Lab 4
-customizing appearance of Assignment 1
+customizing the appearance of Assignment 1
+
 TLDR;
 
 ```bash
